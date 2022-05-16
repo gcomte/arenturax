@@ -20,6 +20,10 @@
     <li>{% include icon-github.html username=site.github_path label='GitHub' %}</li>
     {% endif %}
 
+    {% if site.lightning_address %}
+    <li>{% include icon-lightning.html username=site.lightning_address label='Lightning' %}</li>
+    {% endif %}
+
     <li>
         {% if site.plugins contains 'jekyll-feed' or site.gems contains 'jekyll-feed' %}
         <a href="{{ site.feed.path | default: 'feed.xml' | relative_url }}" title="Atom Feed">

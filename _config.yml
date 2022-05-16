@@ -22,6 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: arentura1
 github_path: gcomte/arentura
 telegram_group: arentura
+lightning_address: arentura@ln.bitcoinbeach.com
 minimal_mistakes_skin: default
 search: true
 
