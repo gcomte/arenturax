@@ -1,0 +1,16 @@
+---
+---
+
+@charset "utf-8";
+
+// Theme skin
+//@import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
+
+//@import "basically-basic";
+
+
+body, div, span {
+  background: red !important;
+  color: blue !important;
+  border: solid 10px black;
+}
