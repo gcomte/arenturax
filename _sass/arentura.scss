@@ -1,1 +1,5 @@
-// empty
+.icon--lightning svg {
+  height: calc(18px + 6 * ((100vw - 320px) / 960));
+  margin-top: -1px;
+  margin-left: 1px;
+}
