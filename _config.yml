@@ -14,17 +14,31 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: arentura
+lang: en-US
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+tagline: Rentals and other services in El Zonte
+description: Car rentals, motorbike rentals, bike rentals and Surf board rentals in El Zonte, El Salvador. Also gives information about other services like taxis, hairdresser, trips, Spanish schools, tattoo studio and lists community links, events and other resources.
+url: arentura.com
+author:
+  name: Arentura
+  twitter: arentura1
+  picture: https://raw.githubusercontent.com/gcomte/arentura/main/assets/logoTransparent.png
+logo: https://raw.githubusercontent.com/gcomte/arentura/main/assets/logoTransparent.png
 twitter_username: arentura1
 github_path: gcomte/arentura
 telegram_group: arentura
 lightning_address: arentura@ln.bitcoinbeach.com
 minimal_mistakes_skin: default
+google_analytics: G-7BSMQ4177D
+
+# Search
 search: true
+search_full_content: true
+
+# Twitter
+twitter:
+  username: arentura1
+  card: summary
 
 # Build settings
 markdown: kramdown
