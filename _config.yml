@@ -22,8 +22,8 @@ url: arentura.com
 author:
   name: Arentura
   twitter: arentura1
-  picture: https://raw.githubusercontent.com/gcomte/arentura/main/assets/logoTransparent.png
-logo: https://raw.githubusercontent.com/gcomte/arentura/main/assets/logoTransparent.png
+  picture: assets/images/Arentura_Logo_No_Text.png
+logo: assets/images/Arentura_Logo_No_Text.png
 twitter_username: arentura1
 github_path: gcomte/arentura
 telegram_group: arentura
